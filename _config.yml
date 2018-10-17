@@ -23,7 +23,7 @@ description: Sajjad Taheri Personal Homepage.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "pages/aboutme"
+  Sajjad Taheri: "pages/aboutme"
   Research: "pages/research"
   Software: "pages/software"
   Fun :   "pages/fun"

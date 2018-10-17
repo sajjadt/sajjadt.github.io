@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+comments: true
 ---
 
 While at UCIrvine I have led three research projects:
