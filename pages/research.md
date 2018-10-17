@@ -45,7 +45,7 @@ Relatd publications:
 This project is supported by Intel Corporation.
 
 #### Performance Assesment of WebRTC Implementations
-WebRTC is a set of HTML5 APIs for peer-to-peer data communication between web applications. This functionality has revolutionize the web communicationenable and led to emergenace of broad range of new applications. ![A Typical WebRTC System]({{site.url}}/img/webrtcsys.png){:style="float: right;margin-left: 10px;margin-top: 7px;width: 300px;"}WebRTCBench is a benchmark suite to provide quantitative comparison of WebRTC implementations across different browsers and architectures. Its main goal is to help in detecting performance bottlenecks in early stages of WebRTC.
+WebRTC is a set of HTML5 APIs for peer-to-peer data communication between web applications. This functionality has revolutionize the web communicationenable and led to emergenace of broad range of new applications. ![A Typical WebRTC System]({{site.url}}/img/webrtcsys.png){:style="float: right;margin-left: 10px;margin-top: 7px;width: 250px;"}WebRTCBench is a benchmark suite to provide quantitative comparison of WebRTC implementations across different browsers and architectures. Its main goal is to help in detecting performance bottlenecks in early stages of WebRTC.
 
 Related publication:
 
