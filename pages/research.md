@@ -7,7 +7,7 @@ comments: true
 While at UC Irvine I was involved in three research projects:
 
 #### FPGA Acceleration of Computer Vision Algorithms
-Field Programmable Gate Arrays (FPGA)s are promising solutions for meeting the computation cost of computer vision algorithms. However, vision algorithms are difficult to translate to FPGA bitstream efficiently. Even, effcient CPU implementation is often a challenging task and requires a lot of expertise. In this research project I implemented primitive vision functions for FPGAs, and developed algorithms to implement high-level vision algorithms described by dataflows graphs using those primitves. The result is an framework that enables vision algorithm developers to quickly develop, verify and test heteregenous implementations of vision algorithms.
+Field Programmable Gate Arrays (FPGA)s are promising solutions for meeting the computation cost of computer vision algorithms. However, vision algorithms are difficult to translate to FPGA bitstream efficiently. Even, effcient CPU implementation is often a challenging task and requires a lot of expertise. In this research project I developed a framework for translating high-level vision algorithms (described by dataflow graphs) to efficient FPGA implementaion (described in OpenCL). It enables computer vision developers to quickly develop, verify and test their algorithms on FPGA platforms.
 
 Related publication:
 
