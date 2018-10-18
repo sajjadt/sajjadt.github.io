@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: default
 title: Research
 comments: true
 ---
 
-While at UCIrvine I have led three research projects:
+While at UC Irvine I was involved in three research projects:
 
 #### FPGA Acceleration of Computer Vision Algorithms
-Field Programmable Gate Arrays (FPGA)s are promising solutions for meeting the computation cost of computer vision algorithms. However, vision algorithms are difficult to translate to FPGA bitstream efficiently. Even, effcient CPU implementation is often a challenging task and requires a lot of exprties. In this research project I implemented algorithms to translate high-level vision algorithsm described in forms of dataflows graph into efficient software and FPGA hardware impelemention. The result is an automatic framework that enables vision algorithm developers to quickly develop, verify and test heteregenous implementations of vision algorithms.
+Field Programmable Gate Arrays (FPGA)s are promising solutions for meeting the computation cost of computer vision algorithms. However, vision algorithms are difficult to translate to FPGA bitstream efficiently. Even, effcient CPU implementation is often a challenging task and requires a lot of expertise. In this research project I implemented primitive vision functions for FPGAs, and developed algorithms to implement high-level vision algorithms described by dataflows graphs using those primitves. The result is an framework that enables vision algorithm developers to quickly develop, verify and test heteregenous implementations of vision algorithms.
 
 Related publication:
 
@@ -46,7 +46,7 @@ Relatd publications:
 This project is supported by Intel Corporation.
 
 #### Performance Assesment of WebRTC Implementations
-WebRTC is a set of HTML5 APIs for peer-to-peer data communication between web applications. This functionality has revolutionize the web communicationenable and led to emergenace of broad range of new applications. ![A Typical WebRTC System]({{site.url}}/img/webrtcsys.png){:style="float: right;margin-left: 10px;margin-top: 7px;width: 250px;"}WebRTCBench is a benchmark suite to provide quantitative comparison of WebRTC implementations across different browsers and architectures. Its main goal is to help in detecting performance bottlenecks in early stages of WebRTC.
+WebRTC is a set of HTML5 APIs for peer-to-peer data communication between web applications. This functionality has revolutionize the web communication and has led to emergenace of broad range of novel applications. ![A Typical WebRTC System]({{site.url}}/img/webrtcsys.png){:style="float: right;margin-left: 10px;margin-top: 7px;width: 250px;"}WebRTCBench is a benchmark suite to provide quantitative comparison of WebRTC implementations across different browsers and architectures. Its main goal is to help in detecting performance bottlenecks in early stages of WebRTC.
 
 Related publication:
 
