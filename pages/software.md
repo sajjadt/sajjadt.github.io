@@ -2,6 +2,7 @@
 layout: page
 title: Software
 subtitle: Collection of open source software I maintain.
+comments: true
 ---
 
 <div class="row">
