@@ -12,7 +12,9 @@ Field Programmable Gate Arrays (FPGA)s are promising solutions for meeting the c
 Related publication:
 
 ```
-S.  Taheri,  J.  Heo,  P.  Behnam,  A.  V.  Veidenbaum,  A.  Nicolau,  ”Acceleration Framework for FPGA Implementation of OpenVX Graph Pipelines”, IEEE FCCM’18.
+1. S. Taheri, P. Behnam, E. Bozorgzadeh, A. V. Veidenbaum, A. Nicolau, ”AFFIX: Automatic Acceleration Framework for FPGA Implementation of OpenVX Vision Algorithms”, ACM/SIGDA FPGA’19.
+
+2. S.  Taheri,  J.  Heo,  P.  Behnam,  A.  V.  Veidenbaum,  A.  Nicolau,  ”Acceleration Framework for FPGA Implementation of OpenVX Graph Pipelines”, IEEE FCCM’18.
 ```
 
 This project is supported by Intel Corporation.
