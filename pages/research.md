@@ -11,11 +11,11 @@ Field Programmable Gate Arrays (FPGA)s are promising solutions for meeting the c
 
 Related publication:
 
-```
+<pre><code>
 1. S. Taheri, P. Behnam, E. Bozorgzadeh, A. V. Veidenbaum, A. Nicolau, ”AFFIX: Automatic Acceleration Framework for FPGA Implementation of OpenVX Vision Algorithms”, ACM/SIGDA FPGA’19.
 
 2. S.  Taheri,  J.  Heo,  P.  Behnam,  A.  V.  Veidenbaum,  A.  Nicolau,  ”Acceleration Framework for FPGA Implementation of OpenVX Graph Pipelines”, IEEE FCCM’18.
-```
+</code></pre>
 
 This project is supported by Intel Corporation.
 
@@ -38,13 +38,14 @@ OpenCV.js can also be used in Node.js based environments. It is published on NPM
 
 Relatd publications:
 
-```
-1. S. Taheri, A. V. Veidenbaum, A. Nicolau, N. Hu, and M. Haghighat, ”Computer Vision for the Masses:  Bringing Computer Vision to the Open Web Platform”, Intel Parallel Universe Magazine, April 2018 issue. Syndicated by EE Times.
+<pre><code>
+1. S. Taheri, A. V. Veidenbaum, A. Nicolau, N. Hu, and M. Haghighat, ”Computer Vision for the Masses:  Bringing Computer Vision to the Open Web Platform”, Intel Parallel Universe Magazine, April 2018 issue. Syndicated by EE Times. <a href="https://software.intel.com/en-us/download/parallel-universe-magazine-issue-32-march-2018"> Link to article </a>
+   
+2. S. Taheri, A. V. Veidenbaum, A. Nicolau, N. Hu, and M. Haghighat, ”OpenCV.js: Computer Vision Processing for the Open Web Platform”, ACM MultiMedia Systems'18. <a href="{{site.url}}/assets/opencvjs-paper.pdf"> Download </a>
+   
+3. S. Taheri, Bringing the Power of SIMD.js to gl-matrix, Mozilla Hacks Blog, 2015. <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi0q5CI7YTfAhUHCnwKHU0bDKsQFjAAegQIBhAB&url=https%3A%2F%2Fhacks.mozilla.org%2F2015%2F12%2Fbringing-the-power-of-simd-js-to-gl-matrix%2F&usg=AOvVaw34c2T4r3-KP0nXTOSmt6JN"> Link to article </a>
+</code></pre>
 
-2. S. Taheri, A. V. Veidenbaum, A. Nicolau, N. Hu, and M. Haghighat, ”OpenCV.js: Computer Vision Processing for the Open Web Platform”, ACM MultiMedia Systems'18.
-
-3. S. Taheri Bringing the Power of SIMD.js to gl-matrix, Mozilla Hacks Blog, 2015.
-```
 This project is supported by Intel Corporation.
 
 #### Performance Assesment of WebRTC Implementations
@@ -52,9 +53,9 @@ WebRTC is a set of HTML5 APIs for peer-to-peer data communication between web ap
 
 Related publication:
 
-```
+<pre><code>
 S. Taheri, L. Beni, A. V. Veidenbaum, A. Nicolau , R. Cammarota, Jianlin Qiu, Qiang Lu and M. Haghighat, ”WebRTCBench:  Performance Assessment of WebRTC Implementations”, ACM/IEEE ESTIMEDIA’15.
-```
+</code></pre>
 
 This project was supported by Intel Corporation.
 
