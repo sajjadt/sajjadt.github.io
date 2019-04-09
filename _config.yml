@@ -17,7 +17,7 @@ baseurl: ""
 title: Sajjad Taheri
 
 # Short description of your site
-description: Sajjad Taheri Personal Homepage.
+description: Homepage
 
 # --- Navigation bar options --- #
 
@@ -26,13 +26,13 @@ navbar-links:
   # Sajjad Taheri: "pages/aboutme"
   Research: "pages/research"
   Software: "pages/software"
-  Personal :   "pages/personal"
+  Personal : "pages/personal"
   CV: "assets/cv.pdf"
   
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/headshot.png"
+avatar: "/img/headshot.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -135,6 +135,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+favicon: "/img/favicon.ico"
 
 kramdown:
   input: GFM
